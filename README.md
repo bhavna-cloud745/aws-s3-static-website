@@ -9,4 +9,4 @@ using Amazon S3 static website hosting.
 - Simple HTML, CSS, and JavaScript setup
 
 ### Live Demo
-http://s355.s3-website-us-west-1.amazonaws.com
+http://store221.s3-website-us-west-1.amazonaws.com/
