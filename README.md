@@ -9,4 +9,4 @@ using Amazon S3 static website hosting.
 - Simple HTML, CSS, and JavaScript setup
 
 ### Live Demo
-http://xcdd56.s3-website-us-west-1.amazonaws.com
+http://bhavna90.s3-website.ca-central-1.amazonaws.com/
